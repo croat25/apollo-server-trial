@@ -1,0 +1,26 @@
+{
+  "name": "appollo-server-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/croat25/apollo-server-trial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/croat25/apollo-server-trial/issues"
+  },
+  "homepage": "https://github.com/croat25/apollo-server-trial#readme",
+  "dependencies": {
+    "@types/node": "^14.0.13",
+    "apollo-server": "^2.15.0",
+    "graphql-import-node": "0.0.4",
+    "typescript": "^3.9.5"
+  }
+}
